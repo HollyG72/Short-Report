@@ -1,3 +1,8 @@
+#this model is a adapted from Barillé, L., Lerouxel, A., Dutertre, M., Haure, J., Barillé, A. L., Pouvreau, S., & Alunno-Bruscia, 
+M. (2011). Growth of the Pacific oyster (Crassostrea gigas) in a high-turbidity 
+ environment: Comparison of model simulations based on scope for growth and dynamic  
+energy budgets. Journal of Sea Research, 66(4), 392–402. 
+
 def load_defaults():
     print('Loading defaults...')
     # Framework
